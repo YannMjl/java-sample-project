@@ -3,7 +3,7 @@ This is java sample project covert most of the java core knowledge and demonstra
 
 ## Author
 
-* **[Yann Mulonda](https://github.com/YannMjl)** - *Initial work* - [Tim Rustige]
+* **[Yann Mulonda](https://github.com/YannMjl)**
 
 ## License
 
